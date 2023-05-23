@@ -68,7 +68,12 @@ Future work of this project aligns with the objective. Below are the three most 
 * Automate concert programs loading into database.
 * Host database on the cloud
 
-<a name="future_work"/>
+<a name="contributors"/>
 ## Contributors
-Team Members: Jonah Broyer (jonahbroyer.com), Samson DeVol(samsondevol.com)
-Project Partner: Patrick Donnelly (soundbendor.org)
+
+Team Members: 
+* Jonah Broyer (jonahbroyer.com) 
+* Samson DeVol (samsondevol.com)
+
+Project Partner:
+* Patrick Donnelly (soundbendor.org)
