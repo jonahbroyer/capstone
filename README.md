@@ -1,6 +1,6 @@
 # Concert Program OCR Project
 
-This repository is for the Concert Program OCR Capstone project for Oregon State University and Project Owner Soundbendor Lab.
+This repository is for the [Concert Program OCR](https://soundbendor.org/projects/30/) Capstone project for Oregon State University and Project Owner Soundbendor Lab.
 
 ## Table of Contents
 [Project Description](#project_description)
